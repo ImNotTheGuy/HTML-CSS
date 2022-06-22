@@ -1,0 +1,38 @@
+html *{
+    font-family: Calibri;
+}
+
+
+header {
+    font-size: xx-large;
+    font-weight: 500;
+    color: #3e0921;
+}
+
+h1{
+    font-size: 120;
+    color: #a24a72;
+}
+
+h2{
+    color: #487986;
+  }
+
+body{
+    background-color: #c6bfbf;
+}
+
+ul {
+    list-style: none; /* Remove default bullets */
+    width: 10em;
+  }
+
+p{
+    width: 50em;
+    text-align:justify;
+    text-justify: inter-word;
+}
+/* #D7BCC8 */
+
+/* background: #98B6B1 */
+
